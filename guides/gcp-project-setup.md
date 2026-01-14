@@ -60,9 +60,9 @@ Create a billing alert so that you can be alerted when you are running low on cr
 
 20. Click on the navigation menu on the top-left corner, select **Billing**. 
 
-21. In the search box at the top of the page, type "Budgets & alerts" and click on the product page that comes up. 
+21. In the search box at the top of the page, type **Budgets & alerts** and click on the product page that comes up. 
 
-22. Choose 'Billing Account for Education' from the drop-down menu and click on 'Go to budgets and alerts' page. 
+22. Choose **Billing Account for Education** from the drop-down menu (or **My Billing Account** if you signed up for the free trial) and click on **Go to budgets and alerts** page. 
 
 23. Click on the Create Budget button and fill out the form as follows:
     * Budget name: CS329E budget
