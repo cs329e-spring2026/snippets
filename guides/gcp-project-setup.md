@@ -21,9 +21,10 @@ Follow these steps to set up your GCP project for *Elements of Data Visualizatio
 
 7. Click on the navigation menu on the top-left corner, select **IAM & admin**, and navigate to the **IAM** menu.
 
-8. Click on **Add** to add the instructor account as a co-owner of your GCP Project. This will give the Professor and TA access to your GCP Project so that they can grade your assignments and help you in office hours.
+8. Click on **Add** to add the instructor's emails as co-owners of your GCP Project. This will give the Professor and TAs access to your GCP Project so that they can grade your assignments and help you during office hours.
 
-9. In the **New Members** input box, enter **cs329e.sp2026.s1@gmail.com** or **cs329e.sp2026.s2@gmail.com**, depending on whether you are in section 1 (MW) or section 2 (TTH) of the course. Under **Role**, select **Project** and assign the **Owner** role to this email account.
+9. In the **New Members** input box, enter scohen@utexas.edu, 
+sangjunpark@utexas.edu, and katezhang@utexas.edu. Under **Role**, select **Project** and assign the **Owner** role to this email account.
 
 ### Requesting a GCP coupon
 
