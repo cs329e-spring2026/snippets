@@ -1,9 +1,9 @@
-Follow these steps to set up your GCP project for Elements of Data Visualization. Each person should create their own project for this course. 
+Follow these steps to set up your GCP project for *Elements of Data Visualization*. Each person should create their own project for this course. 
 ### Create a GCP project
 
-1. Go to the [GCP Console](https://console.cloud.google.com) and log in using your gmail account (not your utexas account). If you do not have a gmail account, please create one now before proceeding.
+1. Go to [https://console.cloud.google.com](https://console.cloud.google.com) and log in using your gmail account (not your utexas account). If you do not have a gmail account, please create one now before proceeding.
 
-2. Once logged in, if you have never used Google Cloud Platform before, you will see the following: Click on **Try for Free**. GCP gives you $300 initially as a free trial, which is for your personal use. If you have used GCP before, you won't see this free trial option and you can skip to step 4. 
+2. Once logged in, if you have never used Google Cloud before, you will see the following: Click on **Try for Free**. GCP gives you $300 initially as a free trial, which is for your personal use. If you have used GCP before, you won't see this free trial option and you can skip to step 4. 
 
 ![](https://github.com/cs327e-spring2019/snippets/blob/master/Screenhots/Google%20Try%20for%20Free.PNG)
 
@@ -27,7 +27,7 @@ Follow these steps to set up your GCP project for Elements of Data Visualization
 
 ### Requesting a GCP coupon
 
-11. If you are in section 1, retrieve your coupon from [section 1 link](https://gcp.secure.force.com/GCPEDU?cid=aw3COCnCkv7SxFPi7OX1jQBjf1HuVcb8sPivXPPHDhL2Lyr30mLUPyslxO1PZ8jI/). If you are in section 2, retrieve your coupon from [section 2 link](https://gcp.secure.force.com/GCPEDU?cid=Q0qs%2F9lwngnAb6k4uJdVtQ%2FYJ35mIDZGCvQQ6hUijFBKbILbjthBPHZ6QmgYJmLq/). 
+11. If you are in section 1, retrieve your GCP coupon from [section 1 link](https://gcp.secure.force.com/GCPEDU?cid=aw3COCnCkv7SxFPi7OX1jQBjf1HuVcb8sPivXPPHDhL2Lyr30mLUPyslxO1PZ8jI/). If you are in section 2, retrieve your GCP coupon from [section 2 link](https://gcp.secure.force.com/GCPEDU?cid=Q0qs%2F9lwngnAb6k4uJdVtQ%2FYJ35mIDZGCvQQ6hUijFBKbILbjthBPHZ6QmgYJmLq/). 
 
 12. After submitting the form, you should receive an email shortly, asking you to verify your email; upon verification, you will receive your coupon code by email.
 
@@ -35,7 +35,7 @@ Follow these steps to set up your GCP project for Elements of Data Visualization
 
 13. Before moving forward, please ensure that you are logged in with your gmail account and not your utexas.edu account.
 
-THE UTEXAS.EDU ACCOUNT IS ONLY TO BE USED FOR RETRIEVING YOUR COUPON CODE. THE ACTIVATION OF THE COUPON MUST BE DONE WITH YOUR GMAIL ACCOUNT. IF YOU HAVE ANY QUESTIONS ABOUT THIS, PLEASE STOP HERE AND POST YOUR QUESTION ON ED OR COME TO OFFICE HOURS.
+**Very Important: The utexas.edu account should ONLY be used for retrieving your coupon code. The activation of the coupon must be done with your gmail account. If you have any questions about this, please stop here and post your question on Ed or come to office hours.**
 
 14. Once you receive your coupon code, log out of your utexas account and log in with your gmail account before activating your coupon. Go to [https://console.cloud.google.com/education](https://console.cloud.google.com/education) to activate your coupon.
 
