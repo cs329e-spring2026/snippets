@@ -70,7 +70,7 @@ Create a billing alert so that you can be alerted when you are running low on cr
     * Time range: Custom range
     * From: Accept the default, which should be today's date
     * To: No end date
-    * Projects: Select your GCP project from the drop-down menu
+    * Projects: Select your GCP project from the drop-down menu or leave it as 'All Projects' if you can't select it
     * Services: All services (1795)
     * Uncheck 'Savings programs'
     * Uncheck 'Other savings'
@@ -78,7 +78,7 @@ Create a billing alert so that you can be alerted when you are running low on cr
     * Budget type: Specified amount
     * Target amount: $50
     * Keep the default alert thresholds of 50%, 90%, and 100%. 
-    * Check 'email alerts to project owners'
+    * Choose either 'email alerts to project owners' or 'email alerts to billing admins and users'
     * Click Finish
 
 
