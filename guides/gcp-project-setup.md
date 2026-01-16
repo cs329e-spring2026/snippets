@@ -63,14 +63,14 @@ Create a billing alert so that you can be alerted when you are running low on cr
 
 21. In the search box at the top of the page, type **Budgets & alerts** and click on the product page that comes up. 
 
-22. Choose **Billing Account for Education** from the drop-down menu (or **My Billing Account** if you signed up for the free trial) and click on **Go to budgets and alerts** page. 
+22. Choose **Billing Account for Education** from the drop-down menu (or **My Billing Account** if you signed up for the free trial) and click on **Go to Budgets and alerts** page. 
 
 23. Click on the Create Budget button and fill out the form as follows:
     * Budget name: CS329E budget
     * Time range: Custom range
     * From: Accept the default, which should be today's date
     * To: No end date
-    * Projects: Select your GCP project from the drop-down menu or leave it as 'All Projects' if you can't select it
+    * Projects: Select your project from the drop-down or if you can't select it, keep the default
     * Services: All services (1795)
     * Uncheck 'Savings programs'
     * Uncheck 'Other savings'
@@ -78,7 +78,7 @@ Create a billing alert so that you can be alerted when you are running low on cr
     * Budget type: Specified amount
     * Target amount: $50
     * Keep the default alert thresholds of 50%, 90%, and 100%. 
-    * Choose either 'email alerts to project owners' or 'email alerts to billing admins and users'
+    * Choose 'email alerts to project owners' or 'email alerts to billing admins and users'
     * Click Finish
 
 
